@@ -3,7 +3,9 @@ Additional files for pc/desktop seb bumn
 
 ![GonkvFjWoAAvI3r](https://github.com/user-attachments/assets/89889ff3-a017-47d6-a700-30ecafb36257)
 
-[Virus Total](https://www.virustotal.com/gui/file/b4ceccca6aaf3a1dc866eb541e437704d927afd82dfe040e03076f1c88c43685)
+[Virus Total - SafeExamBrowser.Client.exe](https://www.virustotal.com/gui/url-analysis/u-42aadc95b266bd4bce42a9c4378c585b4e7265596e7d5e1ed7c25eda2b225184-1745232849)
+[Virus Total - SafeExamBrowser.exe](https://www.virustotal.com/gui/url-analysis/u-978490241ace02f905ac4824aa2964401b55ad3b11e95f747efa29763500b851-1745232920)
+[Virus Total - SafeExamBrowser.Monitoring.dll](https://www.virustotal.com/gui/url/74d6577045eef3ddc46af790abc94f33f230daffebd345afe1c56499e4aa80f5)
 
 > **Note:** this patch only for one display source either internal/external.
 
@@ -15,8 +17,10 @@ Additional files for pc/desktop seb bumn
 5. Enable/Turn On Location (✓ Allow apps to access your location, ✓ Allow desktop apps to access your location)
 
 ## How to use
-1. Download [SafeExamBrowser.Monitoring.dll](https://github.com/fimesac002/seb-bumn/releases/download/1.0.0/SafeExamBrowser.Monitoring.dll) by clicking this.
-2. Copy this file.
+1. Download [SafeExamBrowser.Client.exe
+](https://github.com/fimesac002/seb-bumn/releases/download/1.0.0/SafeExamBrowser.Client.exe), [SafeExamBrowser.exe
+](https://github.com/fimesac002/seb-bumn/releases/download/1.0.0/SafeExamBrowser.exe) and [SafeExamBrowser.Monitoring.dll](https://github.com/fimesac002/seb-bumn/releases/download/1.0.0/SafeExamBrowser.Monitoring.dll) by clicking this.
+2. Copy these three files.
 3. Go to `C:\Program Files\SafeExamBrowser\Application` paste it in this folder.
 4. You'll need `admin perms` to replace files in this folder.
 
