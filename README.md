@@ -3,7 +3,7 @@ Additional files for pc/desktop seb bumn
 
 ![GonkvFjWoAAvI3r](https://github.com/user-attachments/assets/89889ff3-a017-47d6-a700-30ecafb36257)
 
-> **Note:** this patch only for one display source either internal/external.
+> **Note:** this patch only for one display source either internal/external.<br />
 > **Note:** before using this patch make sure follow the steps below.
 1. Do not use multiple monitor only one display source.
 2. Disable/Turn Off application like remote access and remote control (Chrome Remote Desktop, Remote Desktop, AnyDesk, Team Viewer, etc).
