@@ -16,12 +16,13 @@ Additional files for pc/desktop seb bumn
 - [Virus Total - SafeExamBrowser.Monitoring.dll](https://www.virustotal.com/gui/url/74d6577045eef3ddc46af790abc94f33f230daffebd345afe1c56499e4aa80f5)
 
 ## How to use
-1. Download [SafeExamBrowser.Client.exe
+1. Stop SafeExamBrowser application/service.
+2. Download [SafeExamBrowser.Client.exe
 ](https://github.com/fimesac002/seb-bumn/releases/download/1.0.0/SafeExamBrowser.Client.exe), [SafeExamBrowser.exe
 ](https://github.com/fimesac002/seb-bumn/releases/download/1.0.0/SafeExamBrowser.exe) and [SafeExamBrowser.Monitoring.dll](https://github.com/fimesac002/seb-bumn/releases/download/1.0.0/SafeExamBrowser.Monitoring.dll) by clicking this.
-2. Copy these three files.
-3. Go to `C:\Program Files\SafeExamBrowser\Application` paste it in this folder.
-4. You'll need `admin perms` to replace files in this folder.
+3. Copy these three files.
+4. Go to `C:\Program Files\SafeExamBrowser\Application` paste it in this folder.
+5. You'll need `admin perms` to replace files in this folder.
 
 ## License
 [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
